@@ -1,0 +1,78 @@
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.deps.json
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.runtimeconfig.json
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.runtimeconfig.dev.json
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.dll
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.AssemblyInfo.cs
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.pdb
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.dll
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.pdb
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.TagHelpers.input.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.TagHelpers.output.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorCoreGenerate.cache
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.Views.dll
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.Views.pdb
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.Views.pdb
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csproj.CopyComplete
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.g.cshtml.cs
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\_ViewImports.g.cshtml.cs
+C:\Users\User\source\repos\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.g.cshtml.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.deps.json
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.runtimeconfig.json
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.runtimeconfig.dev.json
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.dll
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.pdb
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.Views.dll
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.Views.pdb
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.AssemblyInfo.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.TagHelpers.input.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.TagHelpers.output.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorCoreGenerate.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.g.cshtml.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.g.cshtml.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.Views.pdb
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.dll
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.pdb
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\24.10.19 AJAX homework\p310-24-10-2019-Teymurff\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csproj.CopyComplete
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.deps.json
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.runtimeconfig.json
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.runtimeconfig.dev.json
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.dll
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.pdb
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.Views.dll
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\bin\Debug\netcoreapp2.1\BlogAppSD.Views.pdb
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.AssemblyInfo.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.TagHelpers.input.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.TagHelpers.output.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorCoreGenerate.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.g.cshtml.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.g.cshtml.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\Razor\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.Views.pdb
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.dll
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.pdb
+C:\Users\User\Desktop\24.10.19 C#\Creating-Blog-Post-C-Sharp-Asp.Net-Core-Web-Application\BlogAppSD\BlogAppSD\obj\Debug\netcoreapp2.1\BlogAppSD.csproj.CopyComplete
